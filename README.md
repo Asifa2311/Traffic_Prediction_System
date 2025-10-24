@@ -29,4 +29,3 @@ This app integrates **data analytics**, **interactive visualization**, and **pre
 
 ---
 
-## 🧾 Folder Structure
