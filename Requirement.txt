@@ -1,0 +1,11 @@
+pip freeze > requirements.txt
+# or manually add essentials:
+# streamlit
+# pandas
+# numpy
+# scikit-learn
+# xgboost
+# plotly
+# folium
+# streamlit-folium
+# shap
